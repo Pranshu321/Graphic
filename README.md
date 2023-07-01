@@ -18,7 +18,7 @@
 
 ## How it works:
 
-Our Platform is an one stop progressive web app for photographers and also for people searching for one . It helps you to show your work , creates a your portfolio, generate aristic images mixing art with photography , get yourself hired as a photographer and generate revenue for yourself by selling your photos.
+Our Platform is a one-stop progressive web app for photographers and also for people searching for one. It helps you to show your work, creates your portfolio, generates artistic images by mixing art with photography, get yourself hired as a photographer, and generate revenue for yourself by selling your photos.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -32,23 +32,23 @@ One can buy from the gallery and thus photographers can generate revenue by sell
 
 ### See trending Artworks
 
-We can vote the favaourite photo to increase enthusium among photographers. On their dashboard they can see trending photos
+We can vote for the favorite photo to increase enthusiasm among photographers. On their dashboard, they can see trending photos
 
 ### Generate Artistic Photos
 
-Most often during pandemic/epidemic or in case of any disaster photographers cannot go outside to click photos. So here he/she can try to generate photos by combining art and photography
+Most often during a pandemic/epidemic or in case of any disaster photographers cannot go outside to click photos. So here he/she can try to generate photos by combining art and photography
 
 ### Get Hired
 
-Photographers can send their portflio and work to get hired by clients .
+Photographers can send their portfolios and work to get hired by clients.
 
 ### Write and learn Blogs
 
-Most experienced photographers who want to share their expertise can write blogs to help begginers.
+Most experienced photographers who want to share their expertise can write blogs to help beginners.
 
 ### FAQ BOT - Grapho
 
-Here our bot will answer all relevant questions on photography. A must for begginers.
+Here our bot will answer all relevant questions on photography. A must for beginners.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -77,11 +77,11 @@ _Below is an example of how you can instruct your audience on installing and set
     npm i
    ```
 
-3. Now you have define own firebase project config at `firebase/firebaseconfig.js`.
+3. Now you have to define your own firebase project config at `firebase/firebaseconfig.js`.
 
    ![image](https://user-images.githubusercontent.com/86917304/183728317-30372103-f0d7-4e99-b12c-7f0cd825ea18.png)
 
-4. Open another terminal, install the requirements.txt and run the photo_art API at `localhost:8000`
+4. Open another terminal, install the requirements.txt, and run the photo_art API at `localhost:8000`
 
    ```
    pip install -r requirements. txt
@@ -89,7 +89,7 @@ _Below is an example of how you can instruct your audience on installing and set
    uvicorn photo_art.app:app --reoload
    ```
 
-5. After all steps defined above you can run command int the previous terminal `npm start` to run application at `localhost:3000`.
+5. After all steps defined above you can run the command in the previous terminal `npm start` to run an application at `localhost:3000`.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -114,7 +114,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
@@ -136,7 +136,7 @@ Team Name - Hackit
 
 Leader - [Pranshu](mailto:pranshujain0331@gmail.com)
 
-Project Link: [Graphic](https://Graphic.vercel.app/)
+Project Link: [Graphic](https://graphic32.vercel.app/)
 
 Video Link : [Graphic]()
 
