@@ -3,7 +3,7 @@
 <div align="center">
   <a id="top" href="https://Graphic.vercel.app/" target="blank">
    
-    ![Svg_logo](https://github.com/Pranshu321/Graphic/assets/53607086/ff511d34-f819-481b-87a9-900b29de3563)
+![Svg_logo](https://github.com/Pranshu321/Graphic/assets/53607086/cae62cd6-7156-4c90-ad8c-dfaf2db1b807)
 
   </a>
 
