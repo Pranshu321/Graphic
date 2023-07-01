@@ -5,6 +5,7 @@ import { heroData } from "../data";
 
 // import components
 import Header from "./Header";
+import { Link } from "react-router-dom";
 
 const Hero = () => {
   // destructure hero
@@ -32,13 +33,15 @@ const Hero = () => {
             >
               {subtitle}
             </p>
-            <button
-              className="btn btn-primary mb-8 xl:mb-0"
-              data-aos="fade-down"
-              data-aos-delay="600"
-            >
-              {btnText}
-            </button>
+            <Link to="/signin">
+              <button
+                className="btn btn-primary mb-8 xl:mb-0"
+                data-aos="fade-down"
+                data-aos-delay="600"
+              >
+                {btnText}
+              </button>
+            </Link>
           </div>
           {/* image */}
           <div className="xl:absolute xl:-right-12">

@@ -20,7 +20,7 @@ const Footer = () => {
             <Link to="/" className="flex gap-x-2">
               <img className="mb-[65px]" src={Logo} alt="" />
               <p className="text-2xl font-semibold tracking-widest first-letter:text-[#9059DB] first-letter:text-3xl text-[#3BAEA7]">
-                Graphos
+                Graphic
               </p>
             </Link>
             {/* address */}

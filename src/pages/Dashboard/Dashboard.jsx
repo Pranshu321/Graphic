@@ -517,7 +517,7 @@ function Header() {
         <div className="w-10 h-10 bg-gradient-to-tr from-fuchsia-600 to-violet-600 grid place-items-center rounded-full font-bold text-white  text-2xl">
           G
         </div>
-        <div className="ml-2 font-bold text-xl">Graphos</div>
+        <div className="ml-2 font-bold text-xl">Graphic</div>
       </div>
 
       <div className="flex items-center order-2 md:order-3 pl-0 md:pl-3">

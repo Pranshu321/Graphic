@@ -46,18 +46,18 @@ export const navigationData = [
 ];
 
 export const heroData = {
-  title: `Exhibit, sell, and get hired - all on Graphos.`,
+  title: `Exhibit, sell, and get hired - all on Graphic.`,
   subtitle:
-    "Your all-in-one creative platform for photography - showcase, sell, and grow your artistry with Graphos.",
+    "Your all-in-one creative platform for photography - showcase, sell, and grow your artistry with Graphic.",
   btnText: "Get Started",
   image: HeroImage,
 };
 
 export const aboutData = {
   image: AboutImg,
-  title: "Where art meets commerce: Graphos for photographers.",
+  title: "Where art meets commerce: Graphic for photographers.",
   subtitle:
-    "Welcome to Graphos, the one-stop web-app for photographers looking to showcase their creativity and grow their business. With Graphos, photographers can easily exhibit their work, sell their prints in our marketplace, create artistic styles and get hired by clients who love their style.",
+    "Welcome to Graphic, the one-stop web-app for photographers looking to showcase their creativity and grow their business. With Graphic, photographers can easily exhibit their work, sell their prints in our marketplace, create artistic styles and get hired by clients who love their style.",
 };
 
 export const featuresData = {
@@ -100,7 +100,7 @@ export const featuresData = {
       bgImage: Feature4BgImg,
       title: "Exploring the Art of Photography- Learn, Read and Write",
       description:
-        "Graphos is a perfect place for young budding photographers to read and learn from the Blogs or the Chat Bot while Experts can share their experience through their Blogs",
+        "Graphic is a perfect place for young budding photographers to read and learn from the Blogs or the Chat Bot while Experts can share their experience through their Blogs",
       linkText: "Learn more",
       delay: "100",
       href: "/showblog",
@@ -109,7 +109,7 @@ export const featuresData = {
       image:
         "https://user-images.githubusercontent.com/86917304/224525626-f3abcd8b-22f5-4743-be4e-1567cf53725c.png",
       bgImage: Feature1BgImg,
-      title: "Graphos Chatbot",
+      title: "Graphic Chatbot",
       description: "Resolve Your Doubts with our smart Chatbot",
       linkText: "Learn more",
       delay: "100",
@@ -165,7 +165,7 @@ export const ctaData = {
 export const footerData = {
   logo: LogoV2,
   address: "1/606-D , 234 Bokki Avenue Street, Texas, USA",
-  email: "info@Graphos.com",
+  email: "info@Graphic.com",
   phone: "1-232-7788 (Main)",
   list1: [
     {
@@ -224,6 +224,6 @@ export const footerData = {
 };
 
 export const copyrightData = {
-  text: `© Graphos, ${new Date().getUTCFullYear()}. All rights reserved. By Team Hackit ♥`,
+  text: `© Graphic, ${new Date().getUTCFullYear()}. All rights reserved. By Team Hackit ♥`,
   icon: <BsChatDotsFill />,
 };
