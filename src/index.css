@@ -1,0 +1,193 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-secondary text-secondary bg-gradient-to-b from-[#F6FAFD] to-[#FFFFFF] bg-no-repeat;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-primary text-primary;
+  }
+  a {
+    @apply text-secondary font-semibold hover:text-accent-primary_hover transition;
+  }
+  .btn {
+    @apply text-lg h-[60px] px-[30px] rounded-full transition text-white;
+  }
+  .btn-primary {
+    @apply bg-accent-primary hover:bg-accent-primary_hover;
+  }
+  .btn-secondary {
+    @apply bg-accent-secondary hover:bg-accent-secondary_hover;
+  }
+  .btn-quaternary {
+    @apply bg-white text-base font-bold text-primary drop-shadow-primary hover:bg-accent-primary_hover hover:text-white;
+  }
+  .h1 {
+    @apply text-[40px] xl:text-[80px] font-bold leading-[1.1];
+  }
+  .h2 {
+    @apply text-[40px] font-bold leading-tight;
+  }
+  .h3 {
+    @apply text-[24px];
+  }
+  .lead {
+    @apply text-lg text-secondary font-secondary font-medium leading-relaxed;
+  }
+}
+
+.main-user {
+  font-family: "DM Sans", sans-serif;
+  line-height: 1.5;
+  background-color: #fff;
+  padding: 0 2rem;
+}
+.formimg {
+  max-width: 100%;
+  display: block;
+}
+.form_input {
+  appearance: none;
+  border-radius: 0;
+}
+.card {
+  margin: 2rem auto;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 425px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px 0 rgba(153, 153, 153, 0.25);
+  padding: 0.75rem;
+}
+.card-image {
+  border-radius: 8px;
+  overflow: hidden;
+  padding-bottom: 65%;
+  background-image: url("https://assets.codepen.io/285131/coffee_1.jpg");
+  background-repeat: no-repeat;
+  background-size: 150%;
+  background-position: 0 5%;
+  position: relative;
+}
+.card-image1 {
+  border-radius: 8px;
+  overflow: hidden;
+  padding-bottom: 65%;
+  background-image: url("https://www.bertelsmann-stiftung.de/fileadmin/files/_processed_/a/c/csm_Fotolia_64336912_X_Original_41023_d2446515ba.jpg");
+  background-repeat: no-repeat;
+  background-size: 130%;
+  background-position: 0 5%;
+  position: relative;
+}
+.card-image2 {
+  border-radius: 8px;
+  overflow: hidden;
+  padding-bottom: 65%;
+  background-image: url("https://assets.codepen.io/3685267/nft-dashboard-art-1.jpg");
+  background-repeat: no-repeat;
+  background-size: 130%;
+  background-position: 0 5%;
+  position: relative;
+}
+.card-image3 {
+  border-radius: 8px;
+  overflow: hidden;
+  padding-bottom: 65%;
+  background-image: url("https://assets.codepen.io/3685267/nft-dashboard-art-5.jpg");
+  background-repeat: no-repeat;
+  background-size: 130%;
+  background-position: 0 5%;
+  position: relative;
+}
+.card-heading {
+  position: absolute;
+  left: 10%;
+  top: 15%;
+  right: 10%;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #735400;
+  line-height: 1.222;
+}
+.card-heading small {
+  display: block;
+  font-size: 0.75em;
+  font-weight: 400;
+  margin-top: 0.25em;
+}
+.card-form {
+  padding: 2rem 1rem 0;
+}
+.input {
+  display: flex;
+  flex-direction: column-reverse;
+  position: relative;
+  outline: none;
+  padding-top: 1.5rem;
+}
+.input + .input {
+  margin-top: 1.5rem;
+}
+.input-label {
+  color: #8597a3;
+  position: absolute;
+  top: 1.5rem;
+  transition: 0.25s ease;
+}
+.input-field {
+  border: 0;
+  z-index: 1;
+  background-color: transparent;
+  border-bottom: 2px solid #eee;
+  font: inherit;
+  outline: none;
+  font-size: 1.125rem;
+  padding: 0.8rem 0;
+}
+.input-field:focus,
+.input-field:valid {
+  outline: none;
+  border-bottom-color: #fa4c86;
+}
+.input-field:focus + .input-label,
+.input-field:valid + .input-label {
+  color: #fa4c86;
+  transform: translateY(-1.5rem);
+}
+.action {
+  margin-top: 2rem;
+}
+.action-button {
+  font: inherit;
+  font-size: 1.25rem;
+  padding: 1em;
+  width: 100%;
+  font-weight: 500;
+  background-color: #fa4c86;
+  border-radius: 6px;
+  color: #fff;
+  border: 0;
+}
+.action-button:focus {
+  outline: 0;
+}
+.card-info {
+  padding: 1rem 1rem;
+  text-align: center;
+  font-size: 0.875rem;
+  color: #8597a3;
+}
+.card-info a {
+  display: block;
+  color: #fa4c86;
+  text-decoration: none;
+}
