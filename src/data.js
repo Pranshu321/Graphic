@@ -17,6 +17,7 @@ import Feature1BgImg from "../src/assets/img/features/feature1_bg.png";
 import Feature2BgImg from "../src/assets/img/features/feature2_bg.png";
 import Feature3BgImg from "../src/assets/img/features/feature3_bg.png";
 import Feature4BgImg from "../src/assets/img/features/feature4_bg.png";
+import Hired from "../src/assets/img/hired.png";
 
 export const navigationData = [
   {
@@ -50,7 +51,7 @@ export const heroData = {
   subtitle:
     "Your all-in-one creative platform for photography - showcase, sell, and grow your artistry with Graphic.",
   btnText: "Get Started",
-  image: HeroImage,
+  image: Hired,
 };
 
 export const aboutData = {
@@ -116,7 +117,7 @@ export const featuresData = {
       href: "/qna",
     },
     {
-      image: Feature2Img,
+      image: Hired,
       bgImage: Feature2BgImg,
       title: "Get Hired",
       description:
