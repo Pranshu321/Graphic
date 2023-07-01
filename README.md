@@ -1,5 +1,3 @@
-# Graphic
-
 # Graphic: Exhibit, sell, and get hired - all on Graphic.
 
 <div align="center">
