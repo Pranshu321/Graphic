@@ -24,7 +24,7 @@ const ExhibitionCard = ({
 
   return (
     <div className="">
-      <div className="w-96 rounded-sm overflow-hidden shadow-lg m-16">
+      <div className="w-96 rounded-sm overflow-hidden shadow-lg">
         <div
           className="h-64 bg-center bg-cover hover:bg-gray"
           style={{

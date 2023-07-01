@@ -7,6 +7,7 @@ import AboutImg from "../src/assets/img/img_hero.png";
 import Feature1Img from "../src/assets/img/new_img5.png";
 import Feature2Img from "../src/assets/img/new_img4.png"; // feature 2
 import Feature3Img from "../src/assets/img/new_img3.webp";
+import BoyWithCamera from "../src/assets/img/img_1.png";
 import Feature4Img from "../src/assets/img/new_img6.png";
 import Avatar1Img from "../src/assets/img/testimonials/avatar1.png";
 import Avatar2Img from "../src/assets/img/testimonials/avatar2.png";
@@ -17,6 +18,7 @@ import Feature1BgImg from "../src/assets/img/features/feature1_bg.png";
 import Feature2BgImg from "../src/assets/img/features/feature2_bg.png";
 import Feature3BgImg from "../src/assets/img/features/feature3_bg.png";
 import Feature4BgImg from "../src/assets/img/features/feature4_bg.png";
+import Hired from "../src/assets/img/hired.png";
 
 export const navigationData = [
   {
@@ -50,7 +52,7 @@ export const heroData = {
   subtitle:
     "Your all-in-one creative platform for photography - showcase, sell, and grow your artistry with Graphic.",
   btnText: "Get Started",
-  image: HeroImage,
+  image: BoyWithCamera,
 };
 
 export const aboutData = {
@@ -116,7 +118,7 @@ export const featuresData = {
       href: "/qna",
     },
     {
-      image: Feature2Img,
+      image: Hired,
       bgImage: Feature2BgImg,
       title: "Get Hired",
       description:

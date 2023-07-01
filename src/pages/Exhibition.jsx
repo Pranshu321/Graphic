@@ -30,18 +30,18 @@ const Exhibition = () => {
         <Header />
       </div>
 
-      <div className="flex">
+      <div className="flex flex-wrap justify-center gap-10">
         {document?.map((item) => (
-          <ExhibitionCard
-            key={item.id}
-            title={item.title}
-            description={item.text}
-            image={item.url}
-            Date={item.Date}
-            Time={item.Time}
-            likes={item.likes}
-            id={item.id}
-          />
+            <ExhibitionCard
+              key={item.id}
+              title={item.title}
+              description={item.text}
+              image={item.url}
+              Date={item.Date}
+              Time={item.Time}
+              likes={item.likes}
+              id={item.id}
+            />
         ))}
       </div>
       <div className="my-5">
