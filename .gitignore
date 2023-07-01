@@ -4,9 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-/photo_art
-/photo_art_generated
-/photo_art.png
 
 # testing
 /coverage
