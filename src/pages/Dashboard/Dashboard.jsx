@@ -451,7 +451,7 @@ function Content({ name }) {
           className: "",
           duration: 5000,
           style: {
-            background: "#FA4C86",
+            background: "#9059DB",
             color: "#fff",
           },
 
@@ -459,7 +459,7 @@ function Content({ name }) {
           success: {
             duration: 3000,
             theme: {
-              primary: "#FA4C86",
+              primary: "#9059DB",
               secondary: "black",
             },
           },

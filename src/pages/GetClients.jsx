@@ -8,6 +8,7 @@ import Job from "../assets/img/Job-Banner.png";
 import { useNavigate } from "react-router-dom";
 import { onAuthStateChanged } from "firebase/auth";
 import emailjs from "emailjs-com";
+import { Toaster, toast } from "react-hot-toast";
 
 const GetClients = () => {
   const navigate = useNavigate();
@@ -41,9 +42,11 @@ const GetClients = () => {
       )
       .then(function (response) {
         console.log("SUCCESS!", response.status, response.text);
+        toast.success("Congo Applied!!");
       })
       .catch((err) => {
         console.error(err);
+        toast.error("Internal Server Error");
       });
   }
 
@@ -69,6 +72,31 @@ const GetClients = () => {
   return (
     <div>
       {/* <Header /> */}
+      <Toaster
+        position="top-center"
+        reverseOrder={false}
+        gutter={8}
+        containerClassName=""
+        containerStyle={{}}
+        toastOptions={{
+          // Define default options
+          className: "",
+          duration: 5000,
+          style: {
+            background: "#9059DB",
+            color: "#fff",
+          },
+
+          // Default options for specific types
+          success: {
+            duration: 3000,
+            theme: {
+              primary: "#9059DB",
+              secondary: "black",
+            },
+          },
+        }}
+      />
       <div className="w-full min-h-screen max-h-max flex bg-gray-200 flex-wrap px-5 gap-4 py-10 items-start">
         {document?.map((item, idx) => (
           <div className="relative mt-6 flex w-72 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
