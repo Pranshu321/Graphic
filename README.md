@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Full%20Stack%20Track-7925C7?style=for-the-badge&logoColor=white" alt="dfd" />
 <div align="center">
-  <a id="top" href="https://Graphic.vercel.app/" target="blank">
+  <a id="top" href="https://Graphic32.vercel.app/" target="blank">
    
 ![Svg_logo](https://github.com/Pranshu321/Graphic/assets/53607086/cae62cd6-7156-4c90-ad8c-dfaf2db1b807)
 
@@ -11,7 +11,7 @@
   <h3 align="center">Graphic - The PhotoVerse</h3>
 
   <p align="center">
-    <a href="https://Graphic.vercel.app/" target="blank">Live Demo</a> |
+    <a href="https://Graphic32.vercel.app/" target="blank">Live Demo</a> |
     <a href="https://github.com/Pranshu321/Graphic/issues" target="blank">Report Bug</a> |
     <a href="https://github.com/Pranshu321/Graphic/issues" target="blank">Request Feature</a>
   </p>
@@ -168,7 +168,7 @@ Leader - [Pranshu](mailto:pranshujain0331@gmail.com)
 
 Project Link: [Graphic](https://graphic32.vercel.app/)
 
-Video Link : [Graphic]()
+Video Link : [Graphic](https://www.youtube.com/watch?v=HdfZl5KX3M4)
 
 ## Team Members:
 
