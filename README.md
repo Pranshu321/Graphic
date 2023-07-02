@@ -18,7 +18,10 @@
 
 ## How it works:
 
-Our Platform is a one-stop progressive web app for photographers and also for people searching for one. It helps you to show your work, creates your portfolio, generates artistic images by mixing art with photography, get yourself hired as a photographer, and generate revenue for yourself by selling your photos.
+Our Platform is a one-stop progressive web app for photographers and people searching for one. It helps you show your work, create your portfolio, generate artistic images by mixing art with photography, get yourself hired as a photographer, and generate revenue by selling your photos.
+
+![image](https://github.com/Pranshu321/Graphic/assets/86917304/9028a9cd-7376-4fd1-932f-d86a6255b265)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -28,11 +31,17 @@ Our Platform is a one-stop progressive web app for photographers and also for pe
 
 ### Take Home a Piece of Art
 
-One can buy from the gallery and thus photographers can generate revenue by selling digital art
+One can buy from the gallery, and thus, photographers can generate revenue by selling digital art
+
+![image](https://github.com/Pranshu321/Graphic/assets/86917304/2886b814-ba00-432a-b706-4225c8f3ee62)
+
 
 ### See trending Artworks
 
 We can vote for the favorite photo to increase enthusiasm among photographers. On their dashboard, they can see trending photos
+
+![image](https://github.com/Pranshu321/Graphic/assets/86917304/51e403e3-7995-4a3a-8069-051f3031a328)
+
 
 ### Generate Artistic Photos
 
@@ -41,16 +50,36 @@ Most often during a pandemic/epidemic or in case of any disaster photographers c
 ### Get Hired
 
 Photographers can send their portfolios and work to get hired by clients.
+  - **Users post their requirements and occasion for which they need a photographer**
+
+  ![image](https://github.com/Pranshu321/Graphic/assets/86917304/e92ce44a-dd39-488b-bfd3-9818e2e7e8bc)
+
+
+  - **Photographers can show their interest in client requirement**
+  
+  ![image](https://github.com/Pranshu321/Graphic/assets/86917304/63d4e1ca-6a7d-4431-a178-26fb91974866)
 
 ### Write and learn Blogs
 
 Most experienced photographers who want to share their expertise can write blogs to help beginners.
 
+![image](https://github.com/Pranshu321/Graphic/assets/86917304/a65c543c-0b1e-4602-b487-adc54bc2210f)
+
+
 ### FAQ BOT - Grapho
 
 Here our bot will answer all relevant questions on photography. A must for beginners.
 
+![image](https://github.com/Pranshu321/Graphic/assets/86917304/24835da9-17d8-49f5-b844-70ee2724e56f)
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Dashboard
+All the features can be accessed by the one-control dashboard only.
+
+![image](https://github.com/Pranshu321/Graphic/assets/86917304/4dc4a1f3-8734-4098-baef-7aaf07cf3e11)
+
 
 ---
 
